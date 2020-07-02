@@ -1,0 +1,22 @@
+@import "tailwindcss/base";
+
+h1 {
+    @apply text-3xl;
+}
+
+h2 {
+    @apply text-2xl;
+}
+
+h3 {
+    @apply text-xl;
+}
+
+p {
+    @apply text-gray-800 mb-3;
+}
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
