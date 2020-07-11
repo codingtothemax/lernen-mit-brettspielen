@@ -18,7 +18,7 @@
                     <a href="{{ route('home') }}">Lernen mit Brettspielen</a>
                 </div>
                 <div class="flex items-end">
-                    <img class="h-16 md:h-20 w-full" src="{{ asset('img/header.jpg') }}" alt="Header">
+                    <img class="h-16 md:h-20" src="{{ asset('img/header.jpg') }}" alt="Header">
                 </div>
             </div>
         </div>
